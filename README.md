@@ -63,4 +63,3 @@
 
 ---
 
-If you want animations, a waving GIF banner, or a full dark-mode themed README, tell me — I can add those too! 🚀
