@@ -1,48 +1,66 @@
-<h2 align="left">Hi 👋! My name is Sunitha and I'm a computer science undergraduate from university of ruhuna</h2>
+# 👋 Hey there! I'm **Sunitha**
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SunithaSivakumaran.SunithaSivakumaran"  />
-</div>
-
-###
+### 🎓 Computer Science Undergraduate · University of Ruhuna
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunithaSivakumaran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SunithaSivakumaran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SunithaSivakumaran.SunithaSivakumaran" />
 </div>
 
-###
+---
+
+## 🌟 About Me
+
+* 💻 Passionate about **software development**, **design**, and **problem-solving**.
+* 🚀 Currently learning **JavaScript**, **Backend Development**, **Databases**, and **UI/UX**.
+* 🎨 Love bringing ideas to life through clean and interactive designs.
+* 🌱 Always curious and exploring new technologies.
+
+---
+
+## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SunithaSivakumaran&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SunithaSivakumaran&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" height="170" />
 </div>
 
-###
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+### **Languages & Tools**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 📫 Connect With Me
 
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
+
+---
+
+## ✨ Fun Extras
+
+* ✨ *"Learning never stops — especially in tech!"*
+* 🎯 Currently improving: **Node.js**, **Problem Solving**, **Design Thinking**
+* 🧩 Hobbies: Coding • Designing • Playing Games • Watching Tech Videos
+
+---
+
+If you want animations, a waving GIF banner, or a full dark-mode themed README, tell me — I can add those too! 🚀
