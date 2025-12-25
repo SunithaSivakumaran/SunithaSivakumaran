@@ -14,7 +14,7 @@
 * 🚀 Currently learning **JavaScript**, **Backend Development**, **Databases**, and **UI/UX**.
 * 🎨 Love bringing ideas to life through clean and interactive designs.
 * 🌱 Always curious and exploring new technologies.
-
+* 🖌️ My Git commits are under the name suki-art.
 ---
 
 ## 📊 GitHub Insights
