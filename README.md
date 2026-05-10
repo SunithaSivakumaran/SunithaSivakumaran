@@ -20,8 +20,8 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunithaSivakumaran&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SunithaSivakumaran&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SunithaSivakumaran&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SunithaSivakumaran&layout=compact&theme=tokyonight" height="170" />
 </div>
 
 ---
